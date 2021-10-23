@@ -27,7 +27,7 @@
     text-transform: uppercase;
 
 }
-.header__right>{
+.header__right{
     display: flex;
     justify-content: flex-end;
     text-transform: uppercase;
