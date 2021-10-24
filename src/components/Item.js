@@ -14,10 +14,10 @@ const Item = ({title, desc, backgroundImg, leftBtnTxt, leftBtnLink,rightBtnTxt, 
 
         }}>
             <div div classname="item__container">
-                <div className="itemn__text">
-                    <p>title</p>
+                <div className="item__text">
+                    <p>{title}</p>
                     <div className="item__textDesc">
-                        <p>desc</p>
+                        <p>{desc}</p>
                     
                     </div>
                 </div>

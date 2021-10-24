@@ -24,69 +24,69 @@ function App() {
           desc='Money-back guarantee'
           descLink=''
           backgroundImg={SolarPanels}
-          leftBtnLink=''
+          leftBtnLink='ORDER NOW'
           rightBtnTxt='Leanr more'
           rightBtnLink=''
           twoButtons='true'
           first
         />
         <Item
-          title='Lowest cost solar Panels in Norway'
-          desc='Money-back guarantee'
+          title='Model S'
+          desc='$ 100000'
           descLink=''
-          backgroundImg={SolarPanels}
-          leftBtnLink=''
+          backgroundImg={ModelS}
+          leftBtnLink='COSTUM ORDER'
           rightBtnTxt='Leanr more'
           rightBtnLink=''
           twoButtons='true'
   
         />
         <Item
-          title='Lowest cost solar Panels in Norway'
+          title='Model 3'
           desc='Money-back guarantee'
           descLink=''
-          backgroundImg={SolarPanels}
-          leftBtnLink=''
+          backgroundImg={Model3}
+          leftBtnLink='COSTUM ORDER'
           rightBtnTxt='Leanr more'
           rightBtnLink=''
           twoButtons='true'
         />
         <Item
-          title='Lowest cost solar Panels in Norway'
+          title='Modle X'
           desc='Money-back guarantee'
           descLink=''
-          backgroundImg={SolarPanels}
-          leftBtnLink=''
+          backgroundImg={ModelX}
+          leftBtnLink='COSTUM ORDER'
           rightBtnTxt='Leanr more'
           rightBtnLink=''
           twoButtons='true'
         />
         <Item
-          title='Lowest cost solar Panels in Norway'
+          title='Model Y'
           desc='Money-back guarantee'
           descLink=''
-          backgroundImg={SolarPanels}
-          leftBtnLink=''
+          backgroundImg={ModelY}
+          leftBtnLink='COSTUM ORDER'
           rightBtnTxt='Leanr more'
           rightBtnLink=''
           twoButtons='true'
         />
         <Item
-          title='Lowest cost solar Panels in Norway'
+          title='Solar for you new roof'
           desc='Money-back guarantee'
           descLink=''
-          backgroundImg={SolarPanels}
-          leftBtnLink=''
+          backgroundImg={SolarRoof}
+          leftBtnLink='COSTUM ORDER'
           rightBtnTxt='Leanr more'
           rightBtnLink=''
           twoButtons='true'
         />
         <Item
-          title='Lowest cost solar Panels in Norway'
+          title='Accessories'
           desc='Money-back guarantee'
           descLink=''
-          backgroundImg={SolarPanels}
-          leftBtnLink=''
+          backgroundImg={Accesssories}
+          leftBtnLink='COSTUM ORDER'
           rightBtnTxt='Leanr more'
           rightBtnLink=''
           twoButtons='true'
